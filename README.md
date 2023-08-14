@@ -33,3 +33,11 @@ I'm jh-devv, a developer, it's simple as that
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge)](https://mastodon.social/@jhdevv)
 [![Matrix Badge](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff&style=for-the-badge)](https://matrix.to/#/@jh-devv:matrix.org)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=for-the-badge)](https://stackoverflow.com/users/22096084/jh-devv)
+
+## Devices
+[![OS - Universal Blue](https://img.shields.io/badge/ublue-0B57A4?logo=fedora&style=for-the-badge&logoColor=white)](https://universal-blue.org/)
+[![DE - Hyprland](https://img.shields.io/badge/Hyprland-1a1a2e?logo=wayland&style=for-the-badge&logoColor=white)](https://hyprland.org/)
+![CPU - Ryzen 7 7800X3D](https://img.shields.io/badge/Ryzen%207--7800X3D-ED1C24?logo=amd&style=for-the-badge&logoColor=white)
+![GPU - Radeon RX 7800](https://img.shields.io/badge/Radeon_7800-ED1C24?logo=amd&style=for-the-badge&logoColor=white)
+
+![Mobile - Google Pixel 7](https://img.shields.io/badge/Pixel_7-EA4335?logo=google&style=for-the-badge&logoColor=white)

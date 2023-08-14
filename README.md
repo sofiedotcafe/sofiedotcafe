@@ -24,8 +24,6 @@ I'm jh-devv, a developer, it's simple as that
 
 ![Finnish Badge](https://img.shields.io/badge/🇫🇮%20Finnish-002F6C?style=for-the-badge)
 ![English Badge](https://img.shields.io/badge/🇺🇲%20English-B31942?style=for-the-badge)
-
-#### Learning:
 ![Japanese Badge](https://img.shields.io/badge/🇯🇵%20Japanese-BC002D?style=for-the-badge)
 ![Swedish Badge](https://img.shields.io/badge/🇸🇪%20Swedish-006AA7?style=for-the-badge)
 

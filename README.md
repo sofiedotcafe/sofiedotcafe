@@ -17,4 +17,5 @@ email: [jh-devv@jh-devv.com](mailto:jh-devv@jh-devv.com)
     align="left"
     src="assets/nixos-badge.gif"
     alt='"Powered by NixOS Badge" by @redyf'
+    width="88"
 />

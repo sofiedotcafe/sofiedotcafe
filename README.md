@@ -1,10 +1,20 @@
-## Hi there 👋
-Your fellow homelabber friend from Finland! :3
+<!-- markdownlint-disable MD041 MD033 -->
 
-You can visit my website at [jh-devv.com](jh-devv.com) at least when it's up!
+<img
+    align="left"
+    src="assets/mushroom-nix.png"
+    alt='"Mushroom Nix Logo" by @fsnkty'
+    width="250"
+/>
 
-You can also find my flake `Luminarie` for my NixOS setup [here](https://github.com/jh-devv/luminarie)!
+### Hello 👋
 
-![Retro NixOS Badge by @redyf](assets/powered_by_nixos.gif)
+feel free to reach out ›:3 <br>
+matrix: [@jh-devv@matrix.org](https://matrix.to/#/@jh-devv:matrix.org) <br>
+email: [jh-devv@jh-devv.com](mailto:jh-devv@jh-devv.com)
 
-( ˶ˆ꒳ˆ˵ )
+<img
+    align="left"
+    src="assets/nixos-badge.gif"
+    alt='"Powered by NixOS Badge" by @redyf'
+/>

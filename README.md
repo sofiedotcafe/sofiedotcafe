@@ -4,7 +4,7 @@
     align="left"
     src="assets/mushroom-nix.png"
     alt='"Mushroom Nix Logo" by @fsnkty'
-    width="250"
+    width="225"
 />
 
 ### Hello 👋

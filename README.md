@@ -10,8 +10,6 @@
 ### Hello 👋
 
 feel free to reach out ›:3 <br>
-matrix: [@jh-devv@matrix.org](https://matrix.to/#/@jh-devv:matrix.org) <br>
-email: [jh-devv@jh-devv.com](mailto:jh-devv@jh-devv.com)
 
 <img
     align="left"

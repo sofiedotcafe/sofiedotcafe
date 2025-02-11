@@ -10,7 +10,7 @@
 ### Hello 👋
 
 feel free to reach out ›:3 <br>
-🏳️‍⚧️ trans rights are human rights! 🏳️‍⚧️ <br> 
+<sub>🏳️‍⚧️ trans rights are human rights! 🏳️‍⚧️ <br></sub>
 
 <img
     align="left"
